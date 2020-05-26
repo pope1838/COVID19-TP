@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20b681bc-7c49-4f0a-9d70-f9f93f82e14f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="R Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cPzK0F8SDmkWaZtFACYQizrVi5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.33783785" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/fordelete/als" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../als" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../als-hl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../als-outline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../als-suggestions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../amf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../amf-2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../amf-TCKutor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../amf-aml" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../amf-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../amf-runner" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../graph-query-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../syaml" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b681bc-7c49-4f0a-9d70-f9f93f82e14f" name="Default Changelist" comment="" />
+      <created>1590444949212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590444949212</updated>
+      <workItem from="1590444952857" duration="2454000" />
+      <workItem from="1590525206726" duration="129000" />
+      <workItem from="1590527143818" duration="779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="-865" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590446126439">
+      <screen x="-82" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="342" y="-865" key="#com.intellij.execution.impl.EditConfigurationsDialog/-82.-1057.1920.1057/47.23.1633.1027@-82.-1057.1920.1057" timestamp="1590446126439" />
+    <state x="387" y="-890" key="SettingsEditor" timestamp="1590446254867">
+      <screen x="-82" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="387" y="-890" key="SettingsEditor/-82.-1057.1920.1057/47.23.1633.1027@-82.-1057.1920.1057" timestamp="1590446254867" />
+  </component>
+</project>

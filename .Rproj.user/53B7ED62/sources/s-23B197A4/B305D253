@@ -1,0 +1,24 @@
+{
+    "id": "B305D253",
+    "path": "~/mulesoft/COVID19-IO/lib/demand-reader.R",
+    "project_path": "lib/demand-reader.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1590527404889.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "20,27",
+        "scrollLine": "16"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1590531309,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1590531309875,
+    "read_only": false,
+    "read_only_alternatives": []
+}

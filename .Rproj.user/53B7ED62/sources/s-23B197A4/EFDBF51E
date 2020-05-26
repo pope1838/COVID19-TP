@@ -1,0 +1,21 @@
+{
+    "id": "EFDBF51E",
+    "path": "~/mulesoft/COVID19-IO/resources/hospitales.csv",
+    "project_path": "resources/hospitales.csv",
+    "type": "text",
+    "hash": "2617365856",
+    "contents": "",
+    "dirty": false,
+    "created": 1590528989947.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {},
+    "folds": "",
+    "lastKnownWriteTime": 1590442765,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1590442765,
+    "read_only": false,
+    "read_only_alternatives": []
+}
